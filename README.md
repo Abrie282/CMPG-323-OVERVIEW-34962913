@@ -20,3 +20,7 @@ As of yet I will have no branching strategy to implement in my projects.
 
 
 The link to Project 1 : https://github.com/users/Abrie282/projects/3
+
+The following diagram aims to explain how the projects and repositories will be integrated
+
+
