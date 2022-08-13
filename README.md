@@ -12,7 +12,7 @@ Thus for project 2 there will be a repository called:  "Project2 Repo"
 2 Branching Strategy:
 As of yet I will have no branching strategy to implement in my projects.
 
-3 .gitignore:
+3 .gitignore: I will use gitignore to ignore backup files.
 
 
 
