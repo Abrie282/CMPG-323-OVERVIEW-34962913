@@ -1,10 +1,12 @@
 # CMPG-323-OVERVIEW-34962913
 Overview of CMPG 323 and all its projects
 
+NB!! My student nuber for repository is incoorect it should be 34962913.
+
 1 Project Structure for semester:
 One OVERVIEW Repo (this repo) will be linked to all projcets and other repos that forms part of the CMPG 323 projects 2-5. //Name(CMPG-323-OVERVIEW-34962913)
 For each project 2-5, I will create a repository, thus 5 different repositories not including the overview repository
-Thus for project 2 there will be a repository called:  "Project2 Repo"
+Thus for project 2 there will be a repository called:  "34926913Project2V2"
      for project 3 there will be a repository called:  "Project3 Repo"
      for project 4 there will be a repository called:  "Project4 Repo"
      for project 5 there will be a repository called:  "Project5 Repo"
@@ -23,6 +25,7 @@ I will ignore files that are not part of my project.
 
 
 The link to Project 1 : https://github.com/users/Abrie282/projects/3
+The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
 
 The following diagram aims to explain how the projects and repositories will be integrated : https://github.com/Abrie282/CMPG-323-OVERVIEW-34962913/blob/main/Dia3-323.jpeg
 
