@@ -13,7 +13,7 @@ Thus for project 2 there will be a repository called:  "34926913Project2V2"
      for POE there will be a repository called: "POE"
 
 2 Branching Strategy:
-I will have a main or master branch and then also a develop or dev branch, changes will be made on the dev branch and then merged onto the main or master branch.
+I will have a main or master branch and work directly on that branch.
 
 3 .gitignore: 
 I will use gitignore to ignore certain files when my projects are being commited. 
