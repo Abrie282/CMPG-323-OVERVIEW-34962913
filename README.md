@@ -121,6 +121,10 @@ Users can login:
 
 ![P3login](https://user-images.githubusercontent.com/84916225/202387725-d7dafc2d-5b27-4629-877c-a29c74a59149.jpg)
 
+Users can register:
+
+![P3Register](https://user-images.githubusercontent.com/84916225/202388025-07a063ce-5bac-44f6-8cd6-3735c270c68f.jpg)
+
 This is the link to my Project 4 repo: https://github.com/Abrie282/CMPG-323-Project-4-34962913.git
 
 This is the link to my Project 5 repo: https://github.com/Abrie282/CMPG-323-Project-5---34962913.git
