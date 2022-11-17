@@ -99,7 +99,7 @@ Endpoints 2 on Azure:
 
 
 
-This is the link to my Project 2 repo: https://github.com/Abrie282/34926913Project2V2
+
 
 This is the link to my Project 3 repo: https://github.com/Abrie282/CMPG-323-34962913-Project3.git
 
