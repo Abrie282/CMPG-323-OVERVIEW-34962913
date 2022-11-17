@@ -11,6 +11,10 @@ Thus for project 2 there will be a repository called:  "34926913Project2V2"
      for project 4 there will be a repository called:  "Project4 Repo"
      for project 5 there will be a repository called:  "Project5 Repo"
      for POE there will be a repository called: "POE"
+     
+The following diagram aims to explain how the projects and repositories will be integrated
+
+![DiagramFF](https://user-images.githubusercontent.com/84916225/202378442-34a3ba22-3d97-449b-a248-3c4f25504e06.png)
 
 2 Branching Strategy:
 I will have a main or master branch and work directly on that branch.
@@ -93,9 +97,7 @@ Endpoints 2 on Azure:
 
 
 
-The following diagram aims to explain how the projects and repositories will be integrated
 
-![DiagramFF](https://user-images.githubusercontent.com/84916225/202378442-34a3ba22-3d97-449b-a248-3c4f25504e06.png)
 
 This is the link to my Project 2 repo: https://github.com/Abrie282/34926913Project2V2
 
