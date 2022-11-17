@@ -17,7 +17,7 @@ I will have a main or master branch and work directly on that branch.
 
 3 .gitignore: 
 I will use gitignore to ignore certain files when my projects are being commited. 
-I will ignore files that are not part of my project. 
+I will ignore files that are not part of my project or if it contains passwords.
 
 
  Credentials stored: 
