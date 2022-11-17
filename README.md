@@ -26,10 +26,12 @@ I will ignore files that are not part of my project or if it contains passwords.
 
 The link to Project 1 : https://github.com/users/Abrie282/projects/3
 
+Tabular View:
+
 ![P1Tabular](https://user-images.githubusercontent.com/84916225/202381253-682b81d2-a34c-42c3-9207-f6b0475c96fb.jpg)
 
 
-
+Status View:
 ![P1Status](https://user-images.githubusercontent.com/84916225/202381549-99c26d68-b26c-4645-8173-e698d09dce8a.jpg)
 
 
