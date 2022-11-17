@@ -32,7 +32,12 @@ Tabular View:
 
 
 Status View:
+
 ![P1Status](https://user-images.githubusercontent.com/84916225/202381549-99c26d68-b26c-4645-8173-e698d09dce8a.jpg)
+
+Linked Assessment View:
+
+![P1LinkedAss](https://user-images.githubusercontent.com/84916225/202381909-917474eb-7d5d-49d1-bcd4-4ff4f7fda917.jpg)
 
 
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
