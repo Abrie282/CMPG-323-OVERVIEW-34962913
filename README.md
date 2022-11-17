@@ -136,5 +136,85 @@ This repo will be used for project 4 of 323.RPA using Uipath and UiPath Studio
 
 This is the link to my Project 5 repo: https://github.com/Abrie282/CMPG-323-Project-5---34962913.git
 
+The report created from the data provided and imported into Power BI was separated into 3 pages.
+The high-level metrics page, the device monitoring page, and the device registration page.
+
+
+
+![Pages2](https://user-images.githubusercontent.com/84916225/200821796-7ddc59f2-88cf-4c3f-9c59-6850bbb45529.png)
+
+
+The datasets were leaned and all duplicated were removed where it made logically sense. The data types of all the field were checked and fixed to the correct type if needed. In order to enhance the quality of the my visualizations I created a calculated column called StatusID where the id of an active device is = 1 and an inactive device = 0.I also created a key measure to enhance the data visualizations.
+
+
+![StatusID](https://user-images.githubusercontent.com/84916225/200823417-6d56f538-3083-47ee-9989-58e07548be58.png)
+
+
+
+The High Level Metrics page of the report provides a summarized view of all the important data that could have a large impact on decision making, according to me that would be the key visualizations of Devices per Category, Device Registered over a time period, Active vs Inactive Devices and the number of devices per category.
+
+
+![HighLevel](https://user-images.githubusercontent.com/84916225/200824665-faf2460a-b448-4946-a05a-f92db7ad8768.png)
+
+
+
+I created a visual for users to monitor the devices per category:
+
+![DevicesPerCategory](https://user-images.githubusercontent.com/84916225/200825923-c783c77a-1973-44d3-ad63-473f0959cdca.png)
+
+
+
+I created a visual for users to monitor the devices per zone:
+
+
+![ActiveVSInactive](https://user-images.githubusercontent.com/84916225/200826848-9ba4dd86-f248-44fb-a12b-12c7ba9a1653.png)
+
+
+
+
+
+I created a visual for users to monitor online devices versus offline devices: 
+
+
+![DevicesPerZone](https://user-images.githubusercontent.com/84916225/200826332-921d4e05-f563-4ba2-a135-2c30855ed9aa.png)
+
+
+
+These visualizations all formed part of the Device monitoring page, the full page view can be seen here:
+
+
+![DeviceMonitoring](https://user-images.githubusercontent.com/84916225/200827472-a2401656-65ea-4468-b815-627152bc90ed.png)
+
+
+The following is the Device Registration page which will be discussed in greater detail:
+
+
+![DeviceReg](https://user-images.githubusercontent.com/84916225/200827978-06f275bb-ee3a-4a8b-8e32-3f1ccecae9f7.png)
+
+I created a visual for users to see how many devices have been registered over a timespan:
+
+![DevicesPerTime](https://user-images.githubusercontent.com/84916225/200828535-b539ce1c-a639-4b0b-96bd-54fad825a60b.png)
+
+I created a visual for users to see how many categories of devices have been created: 
+ 
+
+![DevicesPerCat](https://user-images.githubusercontent.com/84916225/200829025-f06ac169-e8cb-4d32-825c-e32112d454cc.png)
+
+I created a visual for users to see how many zones contain registered devices on a timeline: 
+
+![ZonesRegDev](https://user-images.githubusercontent.com/84916225/200829543-35f45221-37fd-4796-85ef-036b320b28ca.png)
+
+
+
+Thereafter I created filters for the following: Filters that can be used and applied across pages to o filter the 
+
+report based on device category, filter the report based on the device platform, filter the report based on the device zone and lastly to filter the 
+
+report based on the device registration date:
+
+
+
+![Filters](https://user-images.githubusercontent.com/84916225/200830415-21ae66b1-0fbe-49b3-a4ae-2876feaeda0e.png)
+
 
 
