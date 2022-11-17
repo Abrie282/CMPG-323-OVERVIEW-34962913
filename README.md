@@ -39,6 +39,11 @@ Linked Assessment View:
 
 ![P1LinkedAss](https://user-images.githubusercontent.com/84916225/202381909-917474eb-7d5d-49d1-bcd4-4ff4f7fda917.jpg)
 
+Sprint View:
+
+![P1Sprint](https://user-images.githubusercontent.com/84916225/202382344-6037217c-df36-4f89-82f3-35576cb148e7.jpg)
+
+
 
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
 
