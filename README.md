@@ -113,6 +113,9 @@ This repo was not created 7 days ago, I had to create a new one and refork the o
 The Home page will include the Zones, Categories, Devices and Logout. Users can be registered and login.
 Zones, Devices and Categories can be managed, thus added, deleted and or edited.
 
+Home: 
+
+![P3Home](https://user-images.githubusercontent.com/84916225/202387356-e32a6717-5ec8-4b95-8d7d-959f7611ad7a.jpg)
 
 This is the link to my Project 4 repo: https://github.com/Abrie282/CMPG-323-Project-4-34962913.git
 
