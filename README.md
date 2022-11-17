@@ -207,9 +207,7 @@ I created a visual for users to see how many zones contain registered devices on
 
 
 Thereafter I created filters for the following: Filters that can be used and applied across pages to o filter the 
-
 report based on device category, filter the report based on the device platform, filter the report based on the device zone and lastly to filter the 
-
 report based on the device registration date:
 
 
