@@ -27,7 +27,9 @@ I will ignore files that are not part of my project or if it contains passwords.
 The link to Project 1 : https://github.com/users/Abrie282/projects/3
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
 
-The following diagram aims to explain how the projects and repositories will be integrated : https://github.com/Abrie282/CMPG-323-OVERVIEW-34962913/blob/main/Dia3-323.jpeg
+The following diagram aims to explain how the projects and repositories will be integrated
+
+![DiagramFF](https://user-images.githubusercontent.com/84916225/202378442-34a3ba22-3d97-449b-a248-3c4f25504e06.png)
 
 
 
