@@ -103,7 +103,7 @@ Endpoints 2 on Azure:
 
 This is the link to my Project 3 repo: https://github.com/Abrie282/CMPG-323-34962913-Project3.git
 
-# CMPG-323-34962913-Project3
+
 This Readme will be used to describe project 3 and it's functionality.
 
 The brancging strategy used: I cloned the repo onto my computer and worked on the main/master branch and commited the changes using github desktop.
