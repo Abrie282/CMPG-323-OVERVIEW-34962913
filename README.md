@@ -43,6 +43,9 @@ Sprint View:
 
 ![P1Sprint](https://user-images.githubusercontent.com/84916225/202382344-6037217c-df36-4f89-82f3-35576cb148e7.jpg)
 
+Date View:
+
+![P1Date](https://user-images.githubusercontent.com/84916225/202382633-3067e574-fa10-483c-a659-77d23193c7d1.jpg)
 
 
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
