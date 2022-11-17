@@ -25,6 +25,12 @@ I will ignore files that are not part of my project or if it contains passwords.
 
 
 The link to Project 1 : https://github.com/users/Abrie282/projects/3
+
+![P1Tabular](https://user-images.githubusercontent.com/84916225/202381253-682b81d2-a34c-42c3-9207-f6b0475c96fb.jpg)
+
+
+
+
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
 
 The following diagram aims to explain how the projects and repositories will be integrated
