@@ -83,8 +83,11 @@ Categories GET:    /api/Categories
           GET:     /api/Zones/{id}
           PUT:     /api/Zones/{id}
           
-        
+Endpoints 1 on Azure:
+
 ![APIEndpoints1 34962913](https://user-images.githubusercontent.com/84916225/202383462-51e0b7e7-ad07-4da3-8fa0-3a394d17bb08.png)
+
+Endpoints 2 on Azure:
 
 ![APIEndpoint2 34962913](https://user-images.githubusercontent.com/84916225/202383574-58db3ab2-6f71-4b7e-8434-1aa6bad0eae2.png)
 
