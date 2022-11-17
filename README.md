@@ -127,6 +127,13 @@ Users can register:
 
 This is the link to my Project 4 repo: https://github.com/Abrie282/CMPG-323-Project-4-34962913.git
 
+This repo will be used for project 4 of 323.RPA using Uipath and UiPath Studio
+ 
+ The aim of this project is to perform UAT(user acceptance testing) on the web application that was created in project 3.
+ 
+ The automation navigates to the web app and create, update, delete and view zones, categories and devices.
+ The automation will also update and write to the excel file sheet "Test Results" based on if it was done  successfuly.
+
 This is the link to my Project 5 repo: https://github.com/Abrie282/CMPG-323-Project-5---34962913.git
 
 
