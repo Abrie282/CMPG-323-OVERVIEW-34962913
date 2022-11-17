@@ -51,7 +51,40 @@ Date View:
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
 
 
+My API works 100% locally and all the endpoints work with the methods created, but when I try it on the cloud I run into a 500 Internal Error and I have tried to solve this for a few days and could not get it to work.
 
+As seen my initial commit for this repo was not 7 days ago, this is because I ran into alot of errors leading me to create new repo for project 2 each time. THus my first repo for project 2 was created more than 7 days ahead of the submission date.
+I ended up with this repo as my final project 2 repo. And my student number ended up being incorrect it should be 34962913.
+
+
+I have three different controllers: categories, zones and devices. They have their own methods as follows:
+
+Categories have get - gets items from categories, post - adds items to categories, get, put and delete methods.
+Devices have get - gets items from devices, post - adds items to devices, get, put and delete methods.
+Zones have get - gets items from zones, post - adds items to zones, get, put and delete methods.
+
+List of endpoints: 
+
+Categories GET:    /api/Categories
+          POST:    /api/Categories
+          DELETE:  /api/Categories/{id}
+          GET:     /api/Categories/{id}  
+          PUT:     /api/Categories/{id}
+          
+ Devices  GET:     /api/Devices
+          POST:    /api/Devices
+          DELETE:  /api/Devices/{id}
+          GET:     /api/Devices/{id} 
+          PUT:     /api/Devices/{id}
+         
+  Zones   GET:     /api/Zones
+          POST:    /api/Zones
+          DELETE:  /api/Zones/{id}
+          GET:     /api/Zones/{id}
+          PUT:     /api/Zones/{id}
+          
+        
+![APIEndpoints1 34962913](https://user-images.githubusercontent.com/84916225/202383462-51e0b7e7-ad07-4da3-8fa0-3a394d17bb08.png)
 
 
 The following diagram aims to explain how the projects and repositories will be integrated
