@@ -30,8 +30,14 @@ The link to Project 1 : https://github.com/users/Abrie282/projects/3
 
 
 
+![P1Status](https://user-images.githubusercontent.com/84916225/202381549-99c26d68-b26c-4645-8173-e698d09dce8a.jpg)
+
 
 The link to the repository for project 2: https://github.com/Abrie282/34926913Project2V2.git
+
+
+
+
 
 The following diagram aims to explain how the projects and repositories will be integrated
 
